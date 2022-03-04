@@ -1,0 +1,10 @@
+.show{
+    display: none;
+}
+
+.item:hover .inner .hidden{
+    display: none;     
+ }
+.item:hover .inner .show{
+    display: block;     
+ }
